@@ -1,0 +1,11 @@
+git clone = clonar repositorio
+
+git status  = mostrar oq foi modificado
+
+git add <nome do arquivo> ou *(todos arquivos) = adicionar arquivos ao repositorio local
+
+git commit -m "" =  deixar msg do que foi modificado
+
+git push =  jogar dentro do repositorio online
+
+git pull = atualizar repositorio local 
